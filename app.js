@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
         </style>
       </head>
       <body>
-        <h1>Лабораторна робота - CI/CD з Docker</h1>
+        <h1>Лабораторна робота - CI/CD з Docker (Оновлена версія)</h1>
         <div class="container">
           <p>Веб-додаток успішно розгорнуто у контейнері</p>
           <p class="success">✅ Розгортання працює!</p>
